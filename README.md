@@ -16,7 +16,7 @@ pip install jupyterlab
 </p>
 </code></pre></div>
 
-<h3> Alternative practice online [Jypterlab!](https://hub.gke2.mybinder.org/user/ipython-ipython-in-depth-qm7xjaf0/notebooks/binder/Index.ipynb) </h3>
+<h3> Alternative practice online <p><a href="https://hub.gke2.mybinder.org/user/ipython-ipython-in-depth-qm7xjaf0/notebooks/binder/Index.ipynb">Jypterlab!</a>&nbsp;  </h3>
 
 <h3> Step by Step Explanaition of Panda </h3>
 
