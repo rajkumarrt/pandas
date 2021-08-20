@@ -3,10 +3,18 @@
 <b> Pandas </b> is one of the main tools used by data analysts nowadays and has been instrumental in boosting Python’s usage in the data scientist community.
 
 <h3> #Install Panda</h3>
-OS  | Module details
------------- | -------------
-Linux | pip install panda and pip install jupyterlab  
-Windows |   py -m pip install panda and py -m pip install jupyterlab  
+
+<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="Package configuration"><pre><code>
+<b> Visual studio code </b>
+<p> py -m pip install panda
+pip install jupyterlab </p>
+<b> Linux </b>
+<p> pip install panda 
+pip install jupyterlab  
+</p>
+</code></pre></div>
+
+Alternative online : [link to Jypterlab!](https://hub.gke2.mybinder.org/user/ipython-ipython-in-depth-qm7xjaf0/notebooks/binder/Index.ipynb)
 
 <h3> #Import Panda</h3>
 <div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="Panda"><pre><code>
