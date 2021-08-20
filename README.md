@@ -14,12 +14,8 @@ pip install jupyterlab
 </p>
 </code></pre></div>
 
-Alternative online : [link to Jypterlab!](https://hub.gke2.mybinder.org/user/ipython-ipython-in-depth-qm7xjaf0/notebooks/binder/Index.ipynb)
+<h5> Alternative practice online </h5> : [link to Jypterlab!](https://hub.gke2.mybinder.org/user/ipython-ipython-in-depth-qm7xjaf0/notebooks/binder/Index.ipynb)
 
-<h3> #Import Panda</h3>
-<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="Panda"><pre><code>
-import pandas as pd
-</code></pre></div>
 
 Value  | Module details
 ------------ | -------------
