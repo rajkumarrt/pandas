@@ -1,13 +1,12 @@
-Machine Learning Panda for beginners 
+<h2> Machine Learning Panda for beginners  </h2>
 
 <b> Pandas </b> is one of the main tools used by data analysts nowadays and has been instrumental in boosting Python’s usage in the data scientist community.
 
 <h3> #Install Panda</h3>
-<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="Panda"><pre><code>
-Linux : pip install panda
-Windows : py -m pip install panda
-jypter Notebook : pip install jupyterlab  
-</code></pre></div>
+OS  | Module details
+------------ | -------------
+Linux | pip install panda and pip install jupyterlab  
+Windows |   py -m pip install panda and py -m pip install jupyterlab  
 
 <h3> #Import Panda</h3>
 <div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="Panda"><pre><code>
