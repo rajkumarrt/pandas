@@ -6,15 +6,17 @@
 
 <div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="Package configuration"><pre><code>
 <b> Visual studio code </b>
-<p> py -m pip install panda
+<p> 
+py -m pip install panda
 pip install jupyterlab </p>
 <b> Linux </b>
-<p> pip install panda 
+<p>
+pip install panda 
 pip install jupyterlab  
 </p>
 </code></pre></div>
 
-Alternative practice online: [link to Jypterlab!](https://hub.gke2.mybinder.org/user/ipython-ipython-in-depth-qm7xjaf0/notebooks/binder/Index.ipynb)
+<h3> Alternative practice online [Jypterlab!](https://hub.gke2.mybinder.org/user/ipython-ipython-in-depth-qm7xjaf0/notebooks/binder/Index.ipynb) </h3>
 
 <h3> Step by Step Explanaition of Panda </h3>
 
