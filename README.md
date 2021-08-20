@@ -24,4 +24,5 @@ Simple series introduciton | <p><a href="https://github.com/rajkumarrt/pandas/bl
 Data Frame Introduction | <p><a href="https://github.com/rajkumarrt/pandas/blob/main/code/simpledataframe.py"> Simple Dataframe </a>&nbsp;</p>
 Data Frame Printing Column| <p><a href="https://github.com/rajkumarrt/pandas/blob/main/code/dataframewithcol.py"> Simple Dataframe </a>&nbsp;</p>
 Data Frame access data| <p><a href="https://github.com/rajkumarrt/pandas/blob/main/code/dataframewithcol.py"> Simple Dataframe </a>&nbsp;</p>
-Data Frame filter data| <p><a href="https://github.com/rajkumarrt/pandas/blob/main/code/dataframewithcol.py"> Simple Dataframe </a>&nbsp;</p>
+Data Frame filter data| <p><a href="https://github.com/rajkumarrt/pandas/blob/main/code/filterdata.py"> Filter data </a>&nbsp;</p>
+Data Frame filter data| <p><a href="https://github.com/rajkumarrt/pandas/blob/main/code/filterdata.py"> Filter data </a>&nbsp;</p>
