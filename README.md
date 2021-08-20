@@ -1,10 +1,5 @@
 Machine Learning Panda for beginners 
 
-### Problem Defination Frame work
-<p>Step 1: What is the problem?</p>
-<p>Step 2: Why does the problem need to be solved?</p>
-<p>Step 3: How would I solve the problem? </p>
-
 <b> Pandas </b> is one of the main tools used by data analysts nowadays and has been instrumental in boosting Python’s usage in the data scientist community.
 
 <h3> #Install Panda</h3>
