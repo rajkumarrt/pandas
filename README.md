@@ -14,7 +14,7 @@ pip install jupyterlab
 </p>
 </code></pre></div>
 
-<h5> Alternative practice online </h5> : [link to Jypterlab!](https://hub.gke2.mybinder.org/user/ipython-ipython-in-depth-qm7xjaf0/notebooks/binder/Index.ipynb)
+Alternative practice online: [link to Jypterlab!](https://hub.gke2.mybinder.org/user/ipython-ipython-in-depth-qm7xjaf0/notebooks/binder/Index.ipynb)
 
 
 Value  | Module details
