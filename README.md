@@ -16,6 +16,7 @@ pip install jupyterlab
 
 Alternative practice online: [link to Jypterlab!](https://hub.gke2.mybinder.org/user/ipython-ipython-in-depth-qm7xjaf0/notebooks/binder/Index.ipynb)
 
+<h3> Step by Step Explanaition of Panda </h3>
 
 Value  | Module details
 ------------ | -------------
