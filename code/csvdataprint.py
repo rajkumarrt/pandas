@@ -1,3 +1,6 @@
 import pandas as pd
 df = pd.read_csv('data.csv')
-print(df.to_string())
+print(df.to_string()) 
+
+#Data Info
+df.info()
