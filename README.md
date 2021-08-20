@@ -14,3 +14,10 @@ Linux : pip install panda
 Windows : py -m pip install panda
 jypter Notebook : pip install jupyterlab  
 </code></pre></div>
+
+<h3> #Import Panda</h3>
+<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="Panda"><pre><code>
+import pandas as pd
+</code></pre></div>
+
+
